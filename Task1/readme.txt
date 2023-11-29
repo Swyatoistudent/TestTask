@@ -12,3 +12,10 @@ metrics.py: Calculation of Mean Squared Error (MSE).
 test.py - testing the model on a single example
 
 Link to weights: https://drive.google.com/file/d/1u_5tFLg9n8vbPWW7z9zsGsxHHOURABB3/view?usp=sharing
+
+Possible improvements:
+
+1) Increase the volume of training data, as the current dataset is relatively small.
+2) Choose a more complex model architecture or apply a pre-trained model.
+3) Implement one-hot encoding for labels.
+
