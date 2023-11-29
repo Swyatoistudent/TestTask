@@ -1,0 +1,7 @@
+OpenCv
+Kornia
+kornia_moons
+matplotlib
+rasterio
+numpy
+pandas
