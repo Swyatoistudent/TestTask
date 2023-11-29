@@ -8,7 +8,7 @@ Files descriptions:
 
 preprocessing: Data preparation and tokenization.
 model.py: Neural network architecture and training.
-metrics.py: Calculation of Mean Squared Error (MSE).
+metrics.py: Calculation of Mean Squared Error (MSE). It's a bad metric in this case, but I haven't had time to do another one.
 test.py - testing the model on a single example
 
 Link to weights: https://drive.google.com/file/d/1u_5tFLg9n8vbPWW7z9zsGsxHHOURABB3/view?usp=sharing
