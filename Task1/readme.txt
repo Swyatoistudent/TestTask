@@ -11,3 +11,4 @@ model.py: Neural network architecture and training.
 metrics.py: Calculation of Mean Squared Error (MSE).
 test.py - testing the model on a single example
 
+Link to weights: https://drive.google.com/file/d/1u_5tFLg9n8vbPWW7z9zsGsxHHOURABB3/view?usp=sharing
